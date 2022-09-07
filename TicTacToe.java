@@ -244,5 +244,3 @@ public class TicTacToe implements ActionListener {
             textfield.setText("O wins");
         }
    }
-
-// If you like my code then visit our channel on the youtube PeterTheCoder
