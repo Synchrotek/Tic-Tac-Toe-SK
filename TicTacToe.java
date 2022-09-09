@@ -1,7 +1,6 @@
 // First create a new Folder for this game.
 // Then create a class and add main method to it to run the code.
 // Then create another class on same project and write the actual code which I have wrtiten below.
-
 // Code for the main method class.
 
 public class Main {
