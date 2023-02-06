@@ -244,4 +244,3 @@ public class TicTacToe implements ActionListener {
    }
 
 // Have a nice day. 
-
