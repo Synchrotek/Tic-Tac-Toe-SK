@@ -71,6 +71,7 @@ public class TicTacToe implements ActionListener {
                          check();
                      }
                  }
+                 
                  else{
                      if (buttons[i].getText()=="") {
                          buttons[i].setForeground(new Color(0,0,255));
@@ -94,7 +95,6 @@ public class TicTacToe implements ActionListener {
 
                 e.printStackTrace();
              }
-
              if (random.nextInt(2)==0) {
                  player1_turn=true;
                  textfield.setText("X turn");  
