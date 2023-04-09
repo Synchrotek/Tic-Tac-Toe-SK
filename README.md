@@ -1,12 +1,9 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game using Java
 
-- To create a tic tac toe using java , you should create a class where we will create the main method and then we should extend it to another class.
-- Then we should create the other class to write the actual code and the rest of things.
-- After that to run our program we should come to our main class and then just run it.
-- You will get a output of a purely working virtual calculator. 
-- This is how it looks like - 👇🏻👇🏻
+- The Java programming language was used to create this straightforward Tic-Tac-Toe gaming software. Each participant in the two-player game alternately marks the squares on a 3x3 grid. The game is won by the player who successfully arranges three of their marks in a row that is either horizontal, vertical, or diagonal. The game is simple to play and features an intuitive user interface.
 
-![image](https://user-images.githubusercontent.com/92244026/204458648-ce4fc7b9-3ba9-4434-88b8-4a52ee81c9d9.png)
+# Features -
+
 
 THANK YOU, HAVE A SWEET DAY. 
 
