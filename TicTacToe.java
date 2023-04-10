@@ -54,7 +54,6 @@ public class TicTacToe implements ActionListener {
          title_panel.add(textfield);
          frame.add(title_panel,BorderLayout.NORTH);
          frame.add(button_panel);
-
          firstTurn();
      }
      public void actionPerformed(ActionEvent e) {
