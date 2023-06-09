@@ -8,7 +8,7 @@ public class Main {
     }
 }
 
-// Code for the Second class where we will write our actual code.
+// Code for the Second class where we will write our actual code. 
 package TicTacToe;
 import java.awt.*;
 import java.awt.event.*;

@@ -4,7 +4,7 @@
 # Features -
 - Two-player game: Play against another player
 - User-friendly intereface: Easy to use
-- Winning conditions: The game detects when a player wins or when the game ends in a draw.
+- Winning conditions: The game detects when a player wins or when the game ends in a draw. 
 
 # Getting Started -
 To run this program, you'll need to have Java installed on your computer. Once you have java installed, follow these steps:
@@ -18,7 +18,7 @@ If you would like to contribute to this project, you can:
 
 - Report bugs and issues 
 - Suggest new features
--Submit pull requests
+- Submit pull requests
 
 # Acknowledgements 
 This project was inspired by @brocode (YouTube).
