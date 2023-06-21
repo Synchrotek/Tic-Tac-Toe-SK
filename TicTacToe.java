@@ -90,7 +90,6 @@ public class TicTacToe implements ActionListener {
              try {
                  Thread.sleep(2000);
              } catch (InterruptedException e){
-
                 e.printStackTrace();
              }
              if (random.nextInt(2)==0) {
