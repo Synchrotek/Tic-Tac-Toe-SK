@@ -16,7 +16,7 @@ To run this program, you'll need to have Java installed on your computer. Once y
 # Contributing 
 If you would like to contribute to this project, you can:
 
-- Report bugs and issues 
+- Report bugs and issues  
 - Suggest new features
 - Submit pull requests
 
