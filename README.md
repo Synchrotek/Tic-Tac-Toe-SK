@@ -6,7 +6,7 @@
 - User-friendly intereface: Easy to use
 - Winning conditions: The game detects when a player wins or when the game ends in a draw. 
 
-# Getting Started  -
+# Getting Started -
 To run this program, you'll need to have Java installed on your computer. Once you have java installed, follow these steps:
 
 1. Clone this repository to your local machine 
